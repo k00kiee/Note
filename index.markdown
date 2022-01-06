@@ -81,5 +81,5 @@ Scratchにある程度慣れていろいろ作れるようになってきたら�
 <br />
 <br />
 
-
+layout: home
 
